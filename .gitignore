@@ -1,0 +1,7 @@
+__pycache__/
+__MACOSX/
+.ipynb_checkpoints/
+results/
+models/
+sokoban-so/
+surface/
